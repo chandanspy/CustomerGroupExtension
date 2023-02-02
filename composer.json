@@ -1,0 +1,22 @@
+{
+    "name": "echidna/customer-group-extension",
+    "description": "Customer Group Extension Package for Spryker B2B Shop to have extra features like conditional payment methods,credit line white/black listing and may more(refer to readme.md).",
+    "type": "library",
+    "require-dev": {
+        "php": "^7.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Echidna\\CustomerGroupExtension\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chandan kumar",
+            "email": "chandan.k@echidnainc.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

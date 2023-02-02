@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <customer-group-extension>
+        <label>CustomerGroupExtension</label>
+        <title>CustomerGroupExtension</title>
+        <pages>
+        </pages>
+    </customer-group-extension>
+</config>
